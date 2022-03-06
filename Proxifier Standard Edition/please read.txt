@@ -1,0 +1,9 @@
+The last version of Proxifier which we tested works with 911S5 is:
+
+Proxifier Standard Edition 4.05
+
+You can download it from Proxifier's official website:
+
+https://www.proxifier.com/download/
+
+We do not provide the key of Proxifier, please do not contact us.
